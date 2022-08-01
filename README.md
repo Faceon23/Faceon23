@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faceon23
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Mongodb
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on student projects
 - 📫 How to reach me rgfayson2@gmail.com
 
